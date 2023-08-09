@@ -4,6 +4,10 @@
 
 [![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/uav.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/uav.png)
 
+[![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/bad_coverage.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/bad_coverage.png)
+
+[![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/good_coverage.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/good_coverage.png)
+
 ## Installation
 1. Please install related python packages : pip install -r requirements.txt
 2. Install PX4 : make px4_sitl jmavsim
