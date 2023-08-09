@@ -1,0 +1,7 @@
+qiskit
+qiskit-nature
+qiskit-ibm-runtime
+qiskit-ibm-provider
+matplotlib
+qiskit-aer
+pylatexenc
