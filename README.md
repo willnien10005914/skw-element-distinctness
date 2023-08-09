@@ -4,9 +4,11 @@
 
 [![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/uav.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/uav.png)
 
-[![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/bad_coverage.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/bad_coverage.png)
+Bad signal coverage
+[![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/bad_coverage_1.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/bad_coverage_1.png)
 
-[![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/good_coverage.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/good_coverage.png)
+Good signal coverage
+[![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/good_coverage_1.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/good_coverage_1.png)
 
 ## Installation
 1. Please install related python packages : pip install -r requirements.txt
