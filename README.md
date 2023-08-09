@@ -7,6 +7,9 @@
 ### Bad signal coverage
 [![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/bad_coverage_1.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/bad_coverage_1.png)
 
+### SKW quantum walk 
+[![Build Status](https://github.com/willnien10005914/uav-network-quantum-walk/blob/main/quantum_circuit.png)](https://github.com/willnien10005914/uav-network-quantum-walk/blob/main/quantum_circuit.png)
+
 ### Good signal coverage
 [![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/good_coverage_1.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/good_coverage_1.png)
 
