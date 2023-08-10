@@ -4,13 +4,13 @@
 
 [![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/uav.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/uav.png)
 
-### Bad signal coverage
+### 5G Network Coverage MAP - Bad
 [![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/bad_coverage_1.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/bad_coverage_1.png)
 
-### SKW quantum walk 
+### Quantum Walk 
 [![Build Status](https://github.com/willnien10005914/uav-network-quantum-walk/blob/main/quantum_circuit.png)](https://github.com/willnien10005914/uav-network-quantum-walk/blob/main/quantum_circuit.png)
 
-### Good signal coverage
+### 5G Network Coverage MAP - Good
 [![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/good_coverage_1.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/good_coverage_1.png)
 
 ## Installation
