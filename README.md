@@ -1,4 +1,4 @@
-# UAV-Assisted 5G Networks - application by quantum walk
+# UAV-Assisted 5G Networks - application by Quantum Walk
 
 [![Build Status](https://github.com/willnien10005914/skw-element-distinctness/blob/main/coverage.png)](https://github.com/willnien10005914/skw-element-distinctness/blob/main/coverage.png)
 
